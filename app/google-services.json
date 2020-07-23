@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "195468763296",
+    "firebase_url": "https://knowsaudi-b96e3.firebaseio.com",
+    "project_id": "knowsaudi-b96e3",
+    "storage_bucket": "knowsaudi-b96e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195468763296:android:34f60551909274b744a9c5",
+        "android_client_info": {
+          "package_name": "com.example.knowsaudi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195468763296-jcedqfspqi4egcg7edhsrpqpqm95dh5r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.knowsaudi",
+            "certificate_hash": "fe3ff39dcdb180a63b84c8490f5f228b4966ee39"
+          }
+        },
+        {
+          "client_id": "195468763296-lrah6nrcak6uu0no6rs6tsojqttmh4pm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.knowsaudi",
+            "certificate_hash": "dd7b2dcdfa4594192b23fcd65942b0d5196bd747"
+          }
+        },
+        {
+          "client_id": "195468763296-h1kk40246aa9oh1lgbf60hm2ib8m24tq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV7H0b4wz-OT0kMZmB7DY6ITBJC7T6r30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195468763296-h1kk40246aa9oh1lgbf60hm2ib8m24tq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
